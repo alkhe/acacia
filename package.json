@@ -1,0 +1,36 @@
+{
+  "name": "acacia",
+  "version": "0.0.1",
+  "description": "State of the art Koa logging.",
+  "main": "index.js",
+  "scripts": {
+    "test": ":"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://edge@github.com/edge/acacia"
+  },
+  "keywords": [
+    "koa",
+    "log",
+    "logger",
+    "http",
+    "server"
+  ],
+  "author": "synchronous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edge/acacia/issues"
+  },
+  "homepage": "https://github.com/edge/acacia",
+  "devDependencies": {
+    "koa": "^0.18.1",
+    "koa-compress": "^1.0.8"
+  },
+  "dependencies": {
+    "charm": "^1.0.0",
+    "colors": "^1.0.3",
+    "lodash": "^3.6.0",
+    "unitex": "^0.2.0"
+  }
+}
